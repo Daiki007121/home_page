@@ -17,7 +17,8 @@ A portfolio website designed to showcase programming skills and projects. The si
 - Contact information integration
 
 ## Screenshots
-[Add screenshots after deployment]
+![Home Page](images/screenshots/home-page.png)
+![Projects Page](images/screenshots/projects-page.png)
 
 ## Technology Stack
 - HTML5
