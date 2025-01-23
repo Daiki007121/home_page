@@ -63,6 +63,12 @@ A responsive personal portfolio website showcasing my skills and projects as a C
 
 ## 4. Design Mockups
 
+![Desktop Homepage](images/mockup1.jpg)
+*Desktop version showing responsive layout with navigation, profile, and skill sections*
+
+![Desktop Projects](images/mockup2.jpg)
+*Desktop version showing project grid layout and cards*
+
 ### Homepage Layout
 ```
 +------------------+
