@@ -4,7 +4,7 @@
 Daiki Koike
 
 ## Class Link
-[CS5610 Web Development](https://johnguerra.co/classes/webDevelopment_spring_2024/)
+[CS5610 Web Development](https://johnguerra.co/classes/webDevelopment_spring_2025/)
 
 ## Project Objective
 A portfolio website designed to showcase programming skills and projects. The site features a responsive design with modern animations and a clean, professional interface.
