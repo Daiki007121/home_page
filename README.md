@@ -26,6 +26,8 @@ A portfolio website designed to showcase programming skills and projects. The si
 - JavaScript
 - Bootstrap 5
 - ESLint & Prettier for code quality
+- Claude 3.5 Sonnet (Anthropic AI model)
+  - Prompt:"Could you design an icon that I can embed into my website?"
 
 ## Directory Structure
 ```
